@@ -1,0 +1,16 @@
+{
+    "autoload": {
+      "psr-4": {
+        "Staff\\": "Staff/"
+      }
+    },
+    "authors": [
+      {
+        "name": "Viet Anh",
+        "email": "vietanh313@gmail.com"
+      }
+    ], 
+    "require": {}
+  }
+
+
